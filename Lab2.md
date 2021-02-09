@@ -5,8 +5,8 @@ https://github.com/BreadGarLick/lab2part1
 
 gitk:
 
-<img src="lab2part1/images/gitk.png"/>
+<img src="images/gitk.png"/>
 
 git log:
 
-<img src="lab2part1/images/git_log.png"/>
+<img src="images/git_log.png"/>
